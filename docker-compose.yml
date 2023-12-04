@@ -1,0 +1,12 @@
+services:
+    minecraft:
+        environment:
+            - SERVER_NAME=all.the.mods.9.server
+            - COMPOSER_MEMORY_LIMIT=-1 //-1 means unlimited
+        restart: unless-stopped
+        build:
+            context: .
+        volumes:
+            - .:/var/www
+        ports:
+            - "25565:25565"

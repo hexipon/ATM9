@@ -1,0 +1,33 @@
+[18:28:19] [INIT] KubeJS 2001.6.4-build.95; MC 2001 forge
+[18:28:19] [INIT] Loaded plugins:
+[18:28:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:28:19] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[18:28:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:28:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:28:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:28:19] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[18:28:19] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[18:28:19] [INIT] - com.almostreliable.morejs.Plugin
+[18:28:19] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[18:28:19] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[18:28:20] [INFO] Loaded script startup_scripts:custom_additions.js in 0.05 s
+[18:28:20] [INFO] farmingForBlockheads.js#8: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[18:28:20] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.008 s
+[18:28:20] [INFO] Loaded script startup_scripts:gtceu/alcr.js in 0.005 s
+[18:28:20] [INFO] Loaded script startup_scripts:gtceu/gregstar_placeholders.js in 0.001 s
+[18:28:20] [INFO] gtceu/material_modification.js#1: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.FluidProperty'
+[18:28:20] [INFO] gtceu/material_modification.js#2: Loaded Java class 'com.gregtechceu.gtceu.api.data.chemical.material.properties.OreProperty'
+[18:28:20] [INFO] Loaded script startup_scripts:gtceu/material_modification.js in 0.007 s
+[18:28:20] [INFO] gtceu/mega_fusion_reactor.js#1: Loaded Java class 'com.gregtechceu.gtceu.common.machine.multiblock.electric.FusionReactorMachine'
+[18:28:20] [INFO] Loaded script startup_scripts:gtceu/mega_fusion_reactor.js in 0.031 s
+[18:28:20] [INFO] Loaded script startup_scripts:gtceu/micro_universe_orb.js in 0.009 s
+[18:28:20] [INFO] Loaded script startup_scripts:gtceu/starforge.js in 0.002 s
+[18:28:20] [INFO] mekanismStartup.js#16: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
+[18:28:20] [INFO] mekanismStartup.js#17: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
+[18:28:20] [INFO] mekanismStartup.js#18: Loaded Java class 'mekanism.api.chemical.gas.Gas'
+[18:28:20] [INFO] mekanismStartup.js#19: Loaded Java class 'mekanism.api.chemical.gas.GasBuilder'
+[18:28:20] [INFO] Loaded script startup_scripts:mekanismStartup.js in 0.003 s
+[18:28:20] [INFO] Loaded script startup_scripts:mining_dim_layers.js in 0.0 s
+[18:28:20] [INFO] Loaded script startup_scripts:settings.js in 0.003 s
+[18:28:20] [INFO] Loaded script startup_scripts:worldgen.js in 0.0 s
+[18:28:20] [INFO] Loaded 12/12 KubeJS startup scripts in 0.68 s

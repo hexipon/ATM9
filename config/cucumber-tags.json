@@ -1,0 +1,8 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot",
+  "forge:dusts/saltpeter": "bloodmagic:saltpeter",
+  "forge:ingots/chrome": "null",
+  "forge:ingots/mithril": "null",
+  "forge:dusts/niter": "chemlib:potassium_nitrate_dust"
+}
